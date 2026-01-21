@@ -1,0 +1,11 @@
+﻿# Dossiers et fichiers d'environnement
+.venv
+.venv/
+__pycache__/
+
+data/raw/
+data/interim/
+data/processed/
+*.h5
+*.pt
+.ipynb_checkpoints/

@@ -9,3 +9,11 @@ data/processed/
 *.h5
 *.pt
 .ipynb_checkpoints/
+Images/
+dog_labels.pkl donnees_preparees.pkl resultats_maison.pkl
+model_cnn_maison.keras model_transfer_learning.keras
+images.tar
+images.tar
+*.tar.gz
+dog_labels.pkl donnees_preparees.pkl resultats_maison.pkl
+model_cnn_maison.keras model_transfer_learning.keras
